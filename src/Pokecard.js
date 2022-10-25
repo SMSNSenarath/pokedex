@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
-const POKE_API = "https://img.pokemondb.net/sprites/home/normal/"
 import './Pokecard.css';
+
+const POKE_API = "https://img.pokemondb.net/sprites/home/normal/"
 
 class Pokecard extends Component {
     render() {
